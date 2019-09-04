@@ -1,5 +1,7 @@
 # todolist
 
+[![Build Status](https://travis-ci.org/MK2112/todolist.svg?branch=master)](https://travis-ci.org/MK2112/todolist)
+
 ## What's this?
 
 This Kotlin app and its development are intended for me to gain some insight and experience. I just want to write something in Kotlin that I can actively use afterwards.
