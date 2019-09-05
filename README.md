@@ -11,4 +11,6 @@ Some features I really need from this will be:
 - [ ] Simple CLI
 - [ ] Managing multiple TodoLists in one App
 - [ ] Auto-Mail if set time for Todo-Task approached
+- [ ] Managing different grades received @ school by date, class, teacher, topic, category
+- [ ] Generate automated Todo-Items if important school assignments are about to happen
 
